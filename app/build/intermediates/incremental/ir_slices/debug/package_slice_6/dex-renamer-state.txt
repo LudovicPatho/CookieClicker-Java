@@ -1,0 +1,4 @@
+#Fri Apr 27 15:23:02 CEST 2018
+base.0=/home/ludo/AndroidStudioProjects/CookieClicker/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

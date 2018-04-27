@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CookieClicker</string>
+    <string name="brand">Cookie Clicker</string>
+    <string name="points">Point : 0 </string>
+</resources>
