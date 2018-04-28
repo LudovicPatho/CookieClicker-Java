@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ludo/AndroidStudioProjects/CookieClicker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "C:\\Users\\Ludo\\AndroidStudioProjects\\CookieDigler-Java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn\\values-mn.xml",
             "map": [
                 {
-                    "source": "/home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/res/values-mn/values-mn.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
-                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
-                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
-                    }
-                },
-                {
-                    "source": "/home/ludo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45cd7725371401a7e9c39cdd228ae742/res/values-mn/values-mn.xml",
+                    "source": "C:\\Users\\Ludo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d4addf9ad5ec2d9e1f105a0e1a67f2b5\\res\\values-mn\\values-mn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1941",
                         "endColumns": "100",
                         "endOffsets": "2037"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ludo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\57f7df9bc773aeffdd78e8c8165d0693\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,218,318,431,518,624,736,818,900,982,1091,1195,1292,1400,1501,1604,1763,1860",
+                        "endColumns": "112,99,112,86,105,111,81,81,81,108,103,96,107,100,102,158,96,80",
+                        "endOffsets": "213,313,426,513,619,731,813,895,977,1086,1190,1287,1395,1496,1599,1758,1855,1936"
                     }
                 }
             ]

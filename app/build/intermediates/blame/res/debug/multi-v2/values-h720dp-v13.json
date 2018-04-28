@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ludo/AndroidStudioProjects/CookieClicker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "C:\\Users\\Ludo\\AndroidStudioProjects\\CookieDigler-Java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Ludo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\57f7df9bc773aeffdd78e8c8165d0693\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

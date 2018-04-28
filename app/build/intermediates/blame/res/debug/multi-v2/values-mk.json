@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ludo/AndroidStudioProjects/CookieClicker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "C:\\Users\\Ludo\\AndroidStudioProjects\\CookieDigler-Java\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk\\values-mk.xml",
             "map": [
                 {
-                    "source": "/home/ludo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45cd7725371401a7e9c39cdd228ae742/res/values-mk/values-mk.xml",
+                    "source": "C:\\Users\\Ludo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d4addf9ad5ec2d9e1f105a0e1a67f2b5\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/res/values-mk/values-mk.xml",
+                    "source": "C:\\Users\\Ludo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\57f7df9bc773aeffdd78e8c8165d0693\\res\\values-mk\\values-mk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

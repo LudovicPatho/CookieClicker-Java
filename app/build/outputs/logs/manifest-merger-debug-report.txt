@@ -1,103 +1,109 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b21070347f2d34990de27fa725994eba/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/146302d01fd6e93107b3a9bccde44268/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3c71ef1e7331fa6d5f2d7f0b4186246b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d3e5bc8481e599b0df75c008d3288c42/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc4492f902fcc30a9294fd8246cb1d44/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5be166d9447a71d8376ff11afb78c4b4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45cd7725371401a7e9c39cdd228ae742/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e6af24db59d5fa0088b56167af433440/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/214bd4fc8ae141ed043fab986ded0938/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d7e7337cc342be1ad829eeb0b17861a/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd88d114033e0dd9714637c9bf364b58/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57f7df9bc773aeffdd78e8c8165d0693\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e149d2dd05cfbdc1e280ea66df23e2b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\29638aa084861e4b181e479e03e4b6c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c392d74078406ecc9774d41906156181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69c105ef50c6988c8888a70ec96bed5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9db4bf076e488aeb4ebfa40f1fc123b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f11bee66e73fbd2edd227dd8462c73ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d4addf9ad5ec2d9e1f105a0e1a67f2b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7de4a14c0d3b2e5aa92426a8e65e05dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f497f71fcbfc8927c40380eeca82fe0d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dfcf0be89f7b5dd6717107a1e4162ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\674b605c9425eaf5ef75858a2552fc25\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:3:5-42
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:4:5-45
 application
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b21070347f2d34990de27fa725994eba/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b21070347f2d34990de27fa725994eba/AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e149d2dd05cfbdc1e280ea66df23e2b9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e149d2dd05cfbdc1e280ea66df23e2b9\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:12:9-40
 activity#be.patho.ludo.cookieclicker.MainActivity
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:17:27-74
+activity#be.patho.ludo.cookieclicker.CookieActivity
+ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml:20:19-49
 uses-sdk
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/825a5e5da9e98833934d13ffc32d9837/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b21070347f2d34990de27fa725994eba/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/b21070347f2d34990de27fa725994eba/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/146302d01fd6e93107b3a9bccde44268/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/146302d01fd6e93107b3a9bccde44268/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3c71ef1e7331fa6d5f2d7f0b4186246b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3c71ef1e7331fa6d5f2d7f0b4186246b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d3e5bc8481e599b0df75c008d3288c42/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d3e5bc8481e599b0df75c008d3288c42/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc4492f902fcc30a9294fd8246cb1d44/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fc4492f902fcc30a9294fd8246cb1d44/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5be166d9447a71d8376ff11afb78c4b4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5be166d9447a71d8376ff11afb78c4b4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45cd7725371401a7e9c39cdd228ae742/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/ludo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/45cd7725371401a7e9c39cdd228ae742/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e6af24db59d5fa0088b56167af433440/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e6af24db59d5fa0088b56167af433440/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/214bd4fc8ae141ed043fab986ded0938/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/214bd4fc8ae141ed043fab986ded0938/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d7e7337cc342be1ad829eeb0b17861a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8d7e7337cc342be1ad829eeb0b17861a/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd88d114033e0dd9714637c9bf364b58/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/ludo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd88d114033e0dd9714637c9bf364b58/AndroidManifest.xml:20:5-44
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57f7df9bc773aeffdd78e8c8165d0693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\57f7df9bc773aeffdd78e8c8165d0693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e149d2dd05cfbdc1e280ea66df23e2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e149d2dd05cfbdc1e280ea66df23e2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\29638aa084861e4b181e479e03e4b6c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\29638aa084861e4b181e479e03e4b6c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c392d74078406ecc9774d41906156181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c392d74078406ecc9774d41906156181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69c105ef50c6988c8888a70ec96bed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e69c105ef50c6988c8888a70ec96bed5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9db4bf076e488aeb4ebfa40f1fc123b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f9db4bf076e488aeb4ebfa40f1fc123b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f11bee66e73fbd2edd227dd8462c73ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f11bee66e73fbd2edd227dd8462c73ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d4addf9ad5ec2d9e1f105a0e1a67f2b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d4addf9ad5ec2d9e1f105a0e1a67f2b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7de4a14c0d3b2e5aa92426a8e65e05dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7de4a14c0d3b2e5aa92426a8e65e05dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f497f71fcbfc8927c40380eeca82fe0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f497f71fcbfc8927c40380eeca82fe0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dfcf0be89f7b5dd6717107a1e4162ad9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dfcf0be89f7b5dd6717107a1e4162ad9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\674b605c9425eaf5ef75858a2552fc25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ludo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\674b605c9425eaf5ef75858a2552fc25\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		ADDED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ludo/AndroidStudioProjects/CookieClicker/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ludo\AndroidStudioProjects\CookieDigler-Java\app\src\main\AndroidManifest.xml

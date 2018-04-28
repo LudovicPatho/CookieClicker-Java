@@ -3,36 +3,24 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background">
+  >
 
     <TextView
-        android:id="@+id/points"
+        android:id="@+id/titre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="@color/colorText"
-        android:textSize="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
         android:fontFamily="cursive"
         android:text="@string/brand"
-        android:layout_gravity="center"
-        android:layout_marginTop="80dp" />
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="0.4in" />
 
-    <ImageView
-        android:id="@+id/cookie"
+    <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/cookie"
-        android:layout_marginTop="130dp"
-        android:layout_gravity="center"  />
-
-    <TextView
-        android:id="@+id/points"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/colorText"
-        android:fontFamily="cursive"
-        android:textSize="40dp"
-        android:text="@string/points"
         android:layout_gravity="center"
-        android:layout_marginTop="80dp" />
-
+        android:indeterminateTint="@color/colorPrimaryDark"
+        android:layout_marginTop="80dp"
+       />
 </LinearLayout>

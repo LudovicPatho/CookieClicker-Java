@@ -1,4 +1,4 @@
-#Fri Apr 27 15:23:02 CEST 2018
-base.0=/home/ludo/AndroidStudioProjects/CookieClicker/app/build/intermediates/transforms/dexMerger/debug/3
+#Fri Apr 27 20:13:28 CEST 2018
+base.0=C\:\\Users\\Ludo\\AndroidStudioProjects\\CookieDigler-Java\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex
